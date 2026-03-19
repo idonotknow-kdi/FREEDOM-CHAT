@@ -3,7 +3,6 @@
 Welcome to my secure, anonymous chat platform on the Tor Network.
 
 ## 🌐 How to Access
-
 1. **Download Tor Browser**  
    Go to [torproject.org](https://www.torproject.org) and download Tor Browser
 
